@@ -1,0 +1,41 @@
+PODS:
+  - Flutter (1.0.0)
+  - fm_photo (0.0.1):
+    - Flutter
+    - TZImagePickerController
+  - path_provider (0.0.1):
+    - Flutter
+  - TZImagePickerController (3.2.0)
+  - video_player (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `.symlinks/flutter/ios`)
+  - fm_photo (from `.symlinks/plugins/fm_photo/ios`)
+  - path_provider (from `.symlinks/plugins/path_provider/ios`)
+  - video_player (from `.symlinks/plugins/video_player/ios`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - TZImagePickerController
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: ".symlinks/flutter/ios"
+  fm_photo:
+    :path: ".symlinks/plugins/fm_photo/ios"
+  path_provider:
+    :path: ".symlinks/plugins/path_provider/ios"
+  video_player:
+    :path: ".symlinks/plugins/video_player/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 58dd7d1b27887414a370fcccb9e645c08ffd7a6a
+  fm_photo: 99cf139e0108eaf4b057d4840a3d087a9faf4d97
+  path_provider: f96fff6166a8867510d2c25fdcc346327cc4b259
+  TZImagePickerController: 7850b158d025065b162a1a963d445040b828abc9
+  video_player: 3964090a33353060ed7f58aa6427c7b4b208ec21
+
+PODFILE CHECKSUM: aff02bfeed411c636180d6812254b2daeea14d09
+
+COCOAPODS: 1.6.1
